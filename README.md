@@ -1,7 +1,7 @@
 # Penghitung Penghasilan Bruto
 Program penghitung penghasilan berfungsi untuk menghitung jumlah penghasilan bruto setelah dikurangi dengan pajak yang dikenakan per tahunnya. Terdapat 2 tipe pajak yang terdapat di program ini, yaitu:
-*Pajak Perorangan
-*Pajak Badan Usaha
+* Pajak Perorangan
+* Pajak Badan Usaha
 
 ## Goal
 Program ini akan meng-outputkan:
