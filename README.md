@@ -24,8 +24,8 @@ Terdapat 2 fungsi, yaitu
 ###hitungpajak()
 Fungsi hitungpajak() bertipe data *void* dan memiliki 2 parameter masukan yaitu a (int) dan b (char).
 hitungpajak() berfungsi untuk menghitung:
-*Pajak
-*Penghasilan bruto
+* Pajak
+* Penghasilan bruto
 
 ###main()
 Fungsi utama digunakan untuk memasukkan nilai penghasilan netto dan memilih tipe pajak.
