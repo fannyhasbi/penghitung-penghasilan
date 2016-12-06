@@ -29,3 +29,27 @@ hitungpajak() berfungsi untuk menghitung:
 
 ###main()
 Fungsi utama digunakan untuk memasukkan nilai penghasilan netto dan memilih tipe pajak.
+
+---
+## Tabel Tarif Pajak
+### Pajak Perorangan
+
+Penghasilan kena pajak (per tahun) | Tarif pajak
+--- | --- 
+0 - 25,0 juta | 5%
+25 - 50,0 juta | 10%
+50 - 100,0 juta | 15%
+100 - 200,0 juta | 25%
+> 200 juta | 35%
+
+
+### Pajak Badan Usaha
+Penghasilan kena pajak (per tahun) | Tarif pajak
+--- | ---
+0 - 50.0 juta | 10%
+50 - 100.0 juta | 15%
+100 - 200.0 juta | 30%
+> 200 juta | 35%
+
+> Titik menandakan nilai bulat
+> Misalkan `25 - 50.0 juta` berarti rentannya adalah antara 20.000.001 sampai dengan 50.000.000
