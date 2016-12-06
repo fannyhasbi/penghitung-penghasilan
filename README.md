@@ -52,4 +52,4 @@ Penghasilan kena pajak (per tahun) | Tarif pajak
 > 200 juta | 35%
 
 > Titik menandakan nilai bulat
-> Misalkan `25 - 50.0 juta` berarti rentannya adalah antara 20.000.001 sampai dengan 50.000.000
+> Misalkan `25 - 50.0 juta` berarti rentannya adalah antara 25.000.001 sampai dengan 50.000.000
