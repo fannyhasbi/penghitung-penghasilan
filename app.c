@@ -46,7 +46,7 @@ void hitungpajak(int a, char b){
 				penghasilan = a - pajak;
 				x = 1;
 			}
-			if(a >= 100000000){
+			else if(a >= 100000000){
 				pajak = a*0.3;
 				penghasilan = a - pajak;
 				x = 1;
