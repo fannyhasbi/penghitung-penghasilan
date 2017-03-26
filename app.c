@@ -91,6 +91,6 @@ int main(){
 	printf("\n\nHasil\n");
 	hitungpajak(netto,x);
 	
-	// getch();
+	getch();
 	return 0;
 }
