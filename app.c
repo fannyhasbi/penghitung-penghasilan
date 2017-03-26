@@ -80,17 +80,17 @@ int main(){
 	char x;
 	
 	printf("Program Penghitung Penghasilan\n");
+  printf("Jenis pajak\n");
+  printf("A. Pajak perorangan\n");
+  printf("B. Pajak Badan Usaha\n");
+  printf("Pilih tipe pajak: ");
+  scanf(" %c", &x);
 	printf("Penghasilan per tahun: Rp ");
 	scanf("%d", &netto);
-	printf("Jenis pajak\n");
-	printf("A. Pajak perorangan\n");
-	printf("B. Pajak Badan Usaha\n");
-	printf("Pilih tipe pajak: ");
-	scanf(" %c", &x);
 	
 	printf("\n\nHasil\n");
 	hitungpajak(netto,x);
 	
-	getch();
+	// getch();
 	return 0;
 }
